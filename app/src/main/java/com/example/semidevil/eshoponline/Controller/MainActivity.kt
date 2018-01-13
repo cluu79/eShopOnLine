@@ -1,7 +1,8 @@
-package com.example.semidevil.eshoponline
+package com.example.semidevil.eshoponline.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.semidevil.eshoponline.R
 
 class MainActivity : AppCompatActivity() {
 
